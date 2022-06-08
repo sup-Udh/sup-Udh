@@ -51,3 +51,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+
+  <div style="display:flex;flex-direction:row;" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sup-Udh&count_private=true&show_icons=true&theme=radical" alt="AnishDe12020's GitHub Stats" width="400px" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=supUdh&layout=compact&theme=radical" alt="AnishDe12020's  Wakatime States" width="400px" height="200px"/>
+  
+  </div>
