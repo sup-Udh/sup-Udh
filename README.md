@@ -22,6 +22,8 @@
 ![Mongodb](https://img.shields.io/badge/MongoDB-4A4A55?style=for-the-badge&logo=MongoDB&logoColor=EAD637)
 ![Javascript](https://img.shields.io/badge/Javascript-230C0F?style=for-the-badge&logo=Javascript&logoColor=A2D3C2)
 ![React Native](https://img.shields.io/badge/ReactNative-877B66?style=for-the-badge&logo=ReactNative&logoColor=AFC97E)
+![React Native](https://img.shields.io/badge/linux-877B66?style=for-the-badge&logo=ReactNative&logoColor=green)
+
 
 <details>
   <summary>See More</summary>
