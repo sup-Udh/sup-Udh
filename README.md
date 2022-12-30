@@ -59,7 +59,6 @@
 
 
   <div style="display:flex;flex-direction:row;" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sup-Udh&count_private=true&show_icons=true&theme=radical" alt="AnishDe12020's GitHub Stats" width="400px" height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=supUdh&layout=compact&theme=radical" alt="AnishDe12020's  Wakatime States" width="400px" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sup-Udh&count_private=true&show_icons=true&theme=radical" alt="Udhay's GitHub Stats" width="400px" height="200px" />
   
   </div>
