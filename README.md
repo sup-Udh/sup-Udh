@@ -2,8 +2,8 @@
 <ul>
   <li> 🌐 I make web applications and websites
   <li> 💻 I make CLI and GUI tools</li>
-  <li> 📘 I am always looking to learn new technologies and expan my knowledge</li>
-  <li> 👐 All my projects are open-source and whenever I get the chance to, I contribute to other open-source projects in the form of bug reports, documentation fixes, and code contributions (fixed and new features)</li>
+  <li> 📘 I am always looking to learn new technologies and expand my knowledge</li>
+  <li> 👐 All my projects are open-sourced and whenever I get the chance to, I contribute to other open-source projects in the form of bug reports, documentation fixes, and code contributions (fixed and new features)</li>
   </li>
   
   ![Hits - Counting since Jan 25 2022](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2sup-Udh)
