@@ -1,82 +1,71 @@
-<h1 align="center"> 👋 Hey, I’m Udhay</h1>
+<h1 align="center" >Udhay Rajeev</h1>  
 
-<ul>
-  <li> 🚀 I build software, web platforms, and developer tools</li>
-  <li> 🧠 Focused on AI infrastructure, MCP servers, automation, and modern web experiences</li>
-  <li> 💻 I create CLI tools, full-stack applications, APIs, and cloud-native systems</li>
-  <li> ⚡ I enjoy shipping fast, experimenting with new technologies, and building impactful products</li>
-  <li> 🌱 Constantly learning about distributed systems, AI agents, and scalable developer infrastructure</li>
-  <li> 👐 Most of my work is open-source, and I actively contribute through fixes, improvements, documentation, and new features whenever possible</li>
-</ul>
+<p align="center">
+Builder · Developer · Fitness Enthusiast
+</p>
 
----
+<p align="center">
+<strong> Learning by building, shipping quickly, and staying endlessly curious.</strong>
+</p>
 
-## Currently Building
-
-- 🛠️ Multi-agent AI infrastructure & MCP ecosystems
-- ☁️ Cloudflare Workers powered applications
-- 🤖 AI developer tools & automation platforms
-- 📦 Full-stack SaaS products with modern web stacks
-- ⚙️ Developer-first tooling & workflows
+<p align="center">
+udhaycodes.space
+</p>
 
 ---
 
-## Tech Stack
+I like building products, AI systems, developer tools, and occasionally pursuing ideas that are probably too ambitious.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-111111?style=for-the-badge&logo=protocolsio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+Currently focused on AI agents, MCP ecosystems, developer infrastructure, automation, and products that make developers more productive.
 
-<details>
-  <summary>See More</summary>
+## AI & Developer Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+**Lore** *(wip)* — Multi-agent AI project manager where specialized agents collaborate on software projects.
 
-</details>
+**MCP Builder** *(wip)* — Build, test, and deploy Model Context Protocol servers without worrying about infrastructure.
+
+**Linko** *(live)* — Browser extension helping developers connect, collaborate, and find coding partners directly from coding platforms.
+
+**Scraper.io** — Web scraping and data extraction platform for turning websites into structured data.
 
 ---
 
-## Tools & Platforms I Use
+## Products & Experiments
 
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+## Products & Experiments
+
+**Lore** *(wip)* — Multi-agent AI project manager for planning, building, and shipping software with AI teammates.
+
+**MCP Builder** *(wip)* — Build, test, and deploy Model Context Protocol servers without worrying about infrastructure.
+
+**Linko** *(live)* — Find coding partners, build teams, and collaborate with developers directly from coding platforms.
+
+**Scraper.io** — Web scraping platform for extracting and structuring data from websites.
+
+**Podex** *(wip)* — AI-powered podcast discovery, recommendations, and knowledge extraction.
+
+**Setups** *(archived)* — Community platform for sharing workspace setups, productivity workflows, and gear.
+
 
 ---
 
-## What I Believe
+## Journey
 
-> Great software comes from experimentation, obsession, and consistency.
+| Year      | What                                                          |
+| --------- | ------------------------------------------------------------- |
+| 2014      | Started programming with Scratch                              |
+| 2015-2016 | Built websites with HTML, CSS, and PHP                        |
+| 2017-2019 | Explored Linux, databases, networking, and cybersecurity      |
+| 2020-2022 | Hackathons, shell scripting, automation, and side projects    |
+| 2023-2024 | AI, developer tooling, and product building                   |
+| 2025      | Entrance exam preparation and exploring AI                    |
+| Now       | Building AI products, MCP tools, and developer infrastructure |
 
 ---
+## Off Keyboard
+
+_🏎️ Formula 1_
+_🏋️ Weight Training_
+_🎧 Podcasts & music_
+
 
