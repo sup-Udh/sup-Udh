@@ -155,9 +155,6 @@ I like understanding the entire stack — from the user interface and API design
 
 ## `05` — What I'm Exploring Right Now
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Animated developer coding" />
-</p>
 
 **Current areas of exploration:**
 
